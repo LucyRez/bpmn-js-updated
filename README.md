@@ -1,3 +1,2 @@
-# react-bpmn
-
-React and BPMN-JS sample project
+#bpmn-js update
+bpmn-js react app with Google Drive support
