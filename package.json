@@ -5,6 +5,7 @@
   "dependencies": {
     "bpmn-js": "^1.2.0",
     "bpmn-js-properties-panel": "^0.24.0",
+    "bpmnjs-kitg": "^9.0.3",
     "gapi-script": "^1.2.0",
     "lodash": "^4.17.5",
     "react": "^16.3.2",

@@ -1,4 +1,4 @@
-import Modeler from "bpmn-js/lib/Modeler";
+import Modeler from "bpmnjs-kitg/lib/Modeler";
 
 import { assign, isArray } from "min-dash";
 
